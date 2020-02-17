@@ -1,0 +1,55 @@
+Como se contrulle la Tecnología Web
+
+Partes de la tecnologia
+
+Frontend Parte que interactúa con el usuario
+
+Lenguajes 
+HTML: Sirve para llevar la estructura de la pagina
+CSS: Es el estilo 
+JS: Tiene toda la parte funcional de la pagina
+
+Compiladores: Ayuda a hacer las paginas mucho más rapido
+
+
+Backend  Procesa la entrada desde el frontend, es el cumulo de información
+
+CRUD
+Create
+Read
+Update
+Delete
+
+Data base
+Guarda todos los datos
+
+Que es el internet
+Es un conjunto desentralizado de redes de comunicación interconectadas
+
+Protocolos
+Conjunto de reglas o pautas que posibilitan que distintos elementos que forman parte de un sistema
+ establezcan comunicaciones entre si
+
+Hipertexto
+Texto que contiene enlaces a otros textos
+
+FTP
+Transferencia de archivos entre sistemas conectados a una red
+
+P2P
+Punto a punto
+
+Tecnología de la información
+Es la aaplicación de ordenadores y equipos de telecomunicación para almacenar, recuperar, transmitir y manipular datos,
+con frecuencia utilizando en el contextp de los negocios u otras empresas.
+
+Se basa en que muchos dispositivos se puedan conectar entre si de forma rapida.
+
+Comunicación Síncrona: Comunicación en tiempo real
+Comunicación Asíncrona: Comunicación en tiempo no real
+
+Que es HTML
+HyperText Markup Language
+Sistema de marcas de hipertexto.
+Se enfoca en la diferenciación y síntesis.
+
