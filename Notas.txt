@@ -53,3 +53,16 @@ HyperText Markup Language
 Sistema de marcas de hipertexto.
 Se enfoca en la diferenciación y síntesis.
 
+Etiqueta (Tag)
+Son fragmentos de texto rodeadeos por corchetes angulares <>, que tienen funciones y usos específicos
+Las etiquetas tienen como regla iniciar y terminar, lo que esta en medio es nuestro contenido.
+
+Atributos 
+Afectan al elemento por su presencia o enriquecen la definición de la misma.
+
+Etiquetas meta (meta tags)
+Etiquetas que se incorporan en el encabezado de una página web y que resultan invisibles para un visitante normal,
+pero de gran utilida par navegadores u otros programas que puedan valerse de esta información.
+
+Etiquetas comunes
+Se dedican a contener secciones
