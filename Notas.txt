@@ -66,3 +66,13 @@ pero de gran utilida par navegadores u otros programas que puedan valerse de est
 
 Etiquetas comunes
 Se dedican a contener secciones
+
+JavaScript
+Lenguaje de programación que te permite realizar actividade3s complejas en una página web.
+Almacena valores útiles dentro de variables, realiza operaciones.
+
+DOM (Modelo de Objeto de Documento)
+La clasificación de la pagina web.
+
+Para incluir los scripts
+<script src="script.js"></script>
