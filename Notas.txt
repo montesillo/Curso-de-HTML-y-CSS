@@ -77,3 +77,19 @@ La clasificación de la pagina web.
 Para incluir los scripts
 <script src="script.js"></script>
 
+Recomendación
+Siempre poner
+padding:0px;
+margin:0px;
+
+display: flex; Ayuda a pasar los elementos de vertical a horizaontal
+
+justify-content: space-between; Envia los elementos a la derecha e izquierda
+
+list-style: none; Con esto se quitan las bolitas del listado
+
+align-items: center; Alinea los elemtos en el centro y vertical
+
+background-size: cover; Ocupa el tamaño del div que tiene
+
+background-position: center; Alinea al centro
