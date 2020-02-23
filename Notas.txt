@@ -93,3 +93,11 @@ align-items: center; Alinea los elemtos en el centro y vertical
 background-size: cover; Ocupa el tamaño del div que tiene
 
 background-position: center; Alinea al centro
+
+si usas un valor negativo el elemento realizara lo contrario
+
+box-shadow: 0 0 2px black; Genera una sombra al rededor de los elementos, los primeros dos valores son de coordenadas x y, el tercer valor es de cuanto se va a distribuir al rededor.
+
+cursor: pointer; Aparece la manita del mouse cuando pasa por un link
+
+border-radius: 2px; Quita las esquinas de los botones
