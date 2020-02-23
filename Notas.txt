@@ -76,3 +76,4 @@ La clasificación de la pagina web.
 
 Para incluir los scripts
 <script src="script.js"></script>
+
