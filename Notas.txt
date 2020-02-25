@@ -101,3 +101,13 @@ box-shadow: 0 0 2px black; Genera una sombra al rededor de los elementos, los pr
 cursor: pointer; Aparece la manita del mouse cuando pasa por un link
 
 border-radius: 2px; Quita las esquinas de los botones
+
+
+De esta forma se declara una variable en css
+:root{
+	--green-color:#7ACC2D;
+};
+
+
+Así accedo a esa variable
+var(--green-color)
