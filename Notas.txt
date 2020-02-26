@@ -111,3 +111,9 @@ De esta forma se declara una variable en css
 
 Así accedo a esa variable
 var(--green-color)
+
+Normalize.css contiene reglas para hacer un sitio responsivo, muchos sitios estan vasados en ella
+
+@media (max-width: 600px){} Puedes poner en que tamaño de pantalla, esto cambia el estilo
+
+display: inherit; Hace que se acomode todo en vertical

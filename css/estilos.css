@@ -6,14 +6,13 @@
 	--black-color:#313337;
 	--space:10px;
 	--normal:12px;
-	--box:0px 0 2px 1px #e6e5e9;
-};
+	--box:0px 0px 2px 1px #e6e5e9;
+}
 
 /* Variables */
-html, body{
-	padding:0px;
+html,body{
+	padding: 0px;
 	margin: 0px;
-	background-color: red !important;
 	font-size: var(--normal);
 	font-family: 'Open Sans';
 }
@@ -87,56 +86,50 @@ nav li a:hover{
 .main_button:hover{
 	background-color: #5e9e22;
 }
-
-.secction_plus{
-	max-height: 300px;
-	padding: 10%;
-	display: flex;
-	text-align: center;
+.beneficios{
+  padding: 10%;
+  display: flex;
 }
 
-.secction_image{
-	background-color: var(--white-color);
-	padding: 5%;
-	padding-left: 7%;
+.beneficio{
+  text-align: center;
+  padding: 20px;
 }
 
+.beneficio img{
+  max-height: 100px;
+}
+
+.text_beneficio{
+  text-align: justify;
+}
+
+/* Mentions */
 .mentions{
-	padding: 10%;
-	width: 10%;
-	display: flex;
+  display: flex;
+  padding: 5%;
 }
-.img_mentions{
+.mention img{
+  width: 100%;
 }
-
-.mentions .img_mentions{
-	background-color: var(--white-color);
-	-webkit-box-shadow: 2px 4px 10px -5px rgba(0,0,0,0.75);
-	-moz-box-shadow: 2px 4px 10px -5px rgba(0,0,0,0.75);
-	box-shadow: 2px 4px 10px -5px rgba(0,0,0,0.75);
+h2.mention_title{
+  text-align: center;
 }
-.space{
-	padding: 15%;
+.mention{
+  padding: var(--space);
 }
-
-.size_word{
-	margin-left: 10px;
-	margin-top: -15px;
+.content_mention{
+  box-shadow: 0px 0 2px 1px #e6e5e9;
 }
-
-.mentions h1{
-	position: absolute;
-	margin-top: -50px;
-	margin-left: 35%;
+.mention .text{
+  padding: var(--space);
 }
 
 footer{
-	background-color: black;
-	margin: 0;
-	position: absolute;
-	width: 100%;
-}
-footer p{
-	color: white;
-	padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--normal);
+  background-color: var(--black-color);
+  padding: var(--space);
+  color: var(--white-color);
 }
