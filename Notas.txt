@@ -117,3 +117,29 @@ Normalize.css contiene reglas para hacer un sitio responsivo, muchos sitios esta
 @media (max-width: 600px){} Puedes poner en que tamaño de pantalla, esto cambia el estilo
 
 display: inherit; Hace que se acomode todo en vertical
+
+animation-duration: 4s; Determina el tiempo que duraran las animaciones
+
+animation-fill-mode: both; este atributo define que se cumple la regla o gifrens de ida como de regreso
+
+animation-name: fadeIn; Coloca nombre a la animación
+
+@keyframes fadeIn{ //Se conecta con la clase
+	from{
+		opacity: 0; //indica que inicara con opacidad 0 e incrementara a 1
+	}
+	to{
+		opacity: 1;
+	}
+}
+
+-webkit-valores: 4s; hacegura que todos los valores se puedan cumplir
+
+transform: translate3d(0,-100%,0); Se da pocision a nuestro elemento
+
+Framework es un marco de trabajo con el cual tranajar basado en una metodología para hacer tu trabajo más rápido
+
+Frameword populares: Bootstrap, Foundation.
+
+Librería: es un conjunto de rutinas, funciones que tienen un objetivo.
+
