@@ -143,3 +143,4 @@ Frameword populares: Bootstrap, Foundation.
 
 Librería: es un conjunto de rutinas, funciones que tienen un objetivo.
 
+Cuando se tenga problemas con max-width, usar margin:auto, para que se marquen los espacios a los costados y no a un solo lado
