@@ -17,3 +17,9 @@
 		display: inherit;
 	}
 }
+@media (max-width: 800px){
+	.main_section{
+		padding: 9%;
+	}
+
+}

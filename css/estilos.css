@@ -16,7 +16,9 @@ html,body{
 	font-size: var(--normal);
 	font-family: 'Open Sans';
 }
-
+p, label{
+	font-size: var(--normal);
+}
 nav{
 	display: flex;
 	background-color: var(--green-color);
@@ -44,7 +46,7 @@ nav li a:hover{
 }
 
 .main_section{
-	padding: 20%;
+	padding: 5%;
 	text-align: center;
 }
 
@@ -124,7 +126,41 @@ h2.mention_title{
 .mention .text{
   padding: var(--space);
 }
+/*-----Porducts.html------*/
+.img_products{
+	 width: 250px;
+	  height: 250px;
+}
+.text_products{
+	margin-top: 100px;
+}
+/*-----/Porducts.html------*/
+/*-----venta.html------*/
+.modulo_pago{
+	background-color: var(--white-color);
+	box-shadow: var(--box);
+	padding: var(--space);
+}
+.modulo_pago_images{
+	max-width: 150px;
+	text-align: center;
+	width: 100%;
+	margin: auto;
 
+}
+.data{
+	margin-top: var(--space);
+	width: 100%;
+	height: 35px;
+	border-radius: 2px;
+	border: 1px solid var(--black-color);
+	box-sizing: border-box;
+}
+.modulo_pago .main_button{
+	margin-top: 10px;
+	padding: 10px;
+}
+/*-----/venta.html------*/
 footer{
   display: flex;
   justify-content: space-between;
@@ -133,3 +169,7 @@ footer{
   padding: var(--space);
   color: var(--white-color);
 }
+.contact a{
+	color: var(--green-color);
+}
+

@@ -144,3 +144,19 @@ Frameword populares: Bootstrap, Foundation.
 Librería: es un conjunto de rutinas, funciones que tienen un objetivo.
 
 Cuando se tenga problemas con max-width, usar margin:auto, para que se marquen los espacios a los costados y no a un solo lado
+
+Con el inspeccionar podemos ver que elemento no se esta representando, ejemplo: si es el margin el espacio que no se esta ocupando se puede poner margin:auto; con eso lograrias centrar
+
+
+Con esto se puede hacer un pequeño recuadro
+.modulo_pago{
+	background-color: var(--white-color);
+	box-shadow: var(--box);
+	padding: var(--space);
+}
+
+
+box-sizing: border-box; lo que hace es definir desde donde toma referencia y con border-box le decimos que tome de referencia tanto el padding como el botton
+
+
+en paypal, se tiene que ir a crear nuevo boton, dependiendo de lo que vendas se coloca el tipo de boton, se le coloca nombre, el id es cuando tienes muchos articulos
