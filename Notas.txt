@@ -160,3 +160,5 @@ box-sizing: border-box; lo que hace es definir desde donde toma referencia y con
 
 
 en paypal, se tiene que ir a crear nuevo boton, dependiendo de lo que vendas se coloca el tipo de boton, se le coloca nombre, el id es cuando tienes muchos articulos
+
+Al inspeccionar elementos cuando un atributo se encuentre tachado es que ya esta siendo afectado por otro
